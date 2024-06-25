@@ -1,3 +1,46 @@
+# English
+
+# Maritime Monitoring and Transport Project in the Tuscan Archipelago
+
+The project, initiated in 2020 by the startup Fuds Delivery Drone srl and later evolved into the company Codesy Software srls, represents a significant innovation in maritime monitoring and transport in the Tuscan archipelago.
+
+## Development and Objectives
+
+The project aims to standardize monitoring and autonomous transport operations using VTOL (Vertical Take-Off and Landing) aircraft with a 4+1 configuration. The primary objective is to demonstrate the effectiveness of our drones in providing quick and efficient services in the archipelago, thereby improving maritime logistics and safety.
+
+## Experiments and Results
+
+### Livorno-Gorgona Crossing (33km traveled) - (2021)
+
+In 2021, the project conducted a series of experiments, including the crossing between Livorno and the island of Gorgona. These tests confirmed that VTOL drones are capable of covering long distances in short times, operating completely autonomously.
+
+### Livorno-Capraia Crossing (70km traveled) - (2024)
+
+Subsequently, in 2024, further tests were conducted between Livorno and the island of Capraia. Again, the drones demonstrated their ability to operate effectively under variable conditions, solidifying their utility for the entire archipelago.
+
+## Operation and Capabilities
+
+The 4+1 configuration VTOL aircraft are equipped with:
+
+- **Multispectral cameras**: For detailed monitoring of the maritime area and islands.
+- **Active tracking systems**: To follow and monitor specific targets in real time.
+- **Complete autonomy**: From take-off to landing, without the need for continuous manual intervention.
+
+The operator simply needs to select the type of mission and the point of interest, after which the drone autonomously performs all necessary operations.
+
+## Innovation and Impact
+
+With operational bases installed on each island of the archipelago, the drones can reach any point in a few minutes, conducting transport or monitoring efficiently. This project not only improves maritime logistics management but also reduces response times and increases the safety of port operations.
+
+### Future Developments
+
+The integration of further advanced technologies, such as artificial intelligence for predictive analysis, is planned to further enhance the operational capabilities of the drones, making this project a model of innovation in the maritime sector on an international level.
+
+(To view videos of the operations carried out, please contact: federico@codesysoftware.com)
+
+
+# Italiano
+
 # Progetto di Monitoraggio e Trasporto Marittimo nell'Arcipelago Toscano
 
 Il progetto, avviato nel 2020 dalla startup Fuds Delivery Drone srl e successivamente evoluto nell'azienda Codesy Software srls, rappresenta un'importante innovazione nel monitoraggio e trasporto marittimo presso l'arcipelago toscano. 
