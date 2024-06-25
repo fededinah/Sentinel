@@ -34,3 +34,5 @@ Con l'installazione di basi operative su ogni isola dell'arcipelago, i droni pos
 
 L'integrazione di ulteriori tecnologie avanzate, come l'intelligenza artificiale per l'analisi predittiva, è prevista per migliorare ulteriormente le capacità operative dei droni, rendendo questo progetto un modello di innovazione nel settore marittimo a livello internazionale.
 
+(per visualizzare i video delle operazioni svolte si prega di contattare la mail: federico@codesysoftware.com)
+
